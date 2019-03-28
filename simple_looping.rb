@@ -15,7 +15,7 @@ def loop_iterator(number_of_times)
     counter = counter-1
     if counter == 0
       break
-
+    end
   end
 end
 
